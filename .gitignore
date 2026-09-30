@@ -1,0 +1,20 @@
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+apps/web/.next/
+apps/web/out/
+apps/web/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+apps/api/.pytest_cache/
+apps/api/*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
